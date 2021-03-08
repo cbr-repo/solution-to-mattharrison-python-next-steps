@@ -1,4 +1,4 @@
-# solution-to-mattharrison-python-next-steps
+# Solution-to-mattharrison-python-next-steps
 ## **Solution to pns-list**
 
 This notebook provides solutions for the notebooks from original O'Reilly course.
